@@ -1,5 +1,5 @@
 # NAO Robot
-![technology-humor]([https://github.com/SahilRaut/UWE_NaoRobot/assets/66782904/d8c00e79-e1d7-4360-ae96-33779af596af](https://media.tenor.com/FQPN5OYr6RkAAAAC/technology-humor.gif))
+![technology-humor](https://media.tenor.com/FQPN5OYr6RkAAAAC/technology-humor.gif)
 
 
 - MindMap
