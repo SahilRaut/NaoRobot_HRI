@@ -9,11 +9,10 @@
 ## MindMap
 <img src="https://github.com/SahilRaut/UWE_NaoRobot/assets/66782904/21903949-5cca-4256-a49f-eac0c0512739" width="800">
 
+[![DemoVideo](https://github.com/SahilRaut/NaoRobot_HRI/assets/66782904/a56b1760-2158-4f7c-9b0b-9b34abba18aa)](https://youtu.be/zuJG3WEgxY8)
 
 
 
 
 
-
-
-
+https://youtu.be/zuJG3WEgxY8
